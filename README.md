@@ -5,6 +5,8 @@ Key aspects of the project include:
 
 Dataset: The project utilized a dataset from Kaggle, containing diverse financial transaction records. Rigorous preprocessing was carried out to handle missing data, normalize values, and extract meaningful features.
 
+link : https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 Algorithm: The Isolation Forest algorithm was implemented as the primary anomaly detection method. This approach is highly effective in identifying data points that deviate significantly from the normal transaction patterns.
 
 Feature Engineering: Transaction attributes, such as amount, timestamp, and location, were analyzed and transformed into actionable features to enhance the model's accuracy.
